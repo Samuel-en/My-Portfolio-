@@ -27,7 +27,7 @@
     color: teal
 }
       
-      .footer {
+      .footer{
         background-color: gray;
         position: relative;
         height: 50px;
@@ -36,4 +36,13 @@
         color: teal;
         text-align: center;
       }
-      
+
+      .pfooter{
+        background-color: gray;
+        position: relative;
+        height: 50px;
+        margin-top: 1000px;
+        clear: both;
+        color: teal;
+        text-align: center;
+      }
