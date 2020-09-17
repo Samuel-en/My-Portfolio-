@@ -9,7 +9,7 @@
     }
 
 
-      body {
+      .body {
         margin: 0;
         font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
         font-size: 1rem;
@@ -17,7 +17,7 @@
         line-height: 1.5;
         color: black;
         text-align: left;
-        background-color: lightgrey;
+        background-image:
         
       }
 
@@ -37,12 +37,4 @@
         text-align: center;
       }
 
-      .pfooter{
-        background-color: gray;
-        position: relative;
-        height: 50px;
-        margin-top: 1000px;
-        clear: both;
-        color: teal;
-        text-align: center;
-      }
+      
